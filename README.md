@@ -1,5 +1,5 @@
 
-# LinkedIn Profile Scraper
+# LinkedIn Connection Profile Scraper
 
 This is a Python script for scraping LinkedIn profile links, profile names, and checking for premium subscriptions.
 
